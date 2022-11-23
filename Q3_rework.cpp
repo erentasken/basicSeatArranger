@@ -117,6 +117,7 @@ int main(){
             cout << "Not a valid class type.";
             continue;
         }
+        //some kind of changes
     }
     return 0;
     }
